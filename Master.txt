@@ -1,4 +1,5 @@
 
-<Version: 1.02>
+<Version: 1.03>
 /data/Map002.json https://raw.githubusercontent.com/THE-NUKELEDGE/Updates/master/Map002.json
+/data/Map003.json https://raw.githubusercontent.com/THE-NUKELEDGE/Updates/master/Map003.json
 <End of Version>
